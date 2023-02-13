@@ -4,46 +4,30 @@ body{
     font-family: 'Zen Maru Gothic', sans-serif;
 }
 
-@keyframes fadeIn {
-    0% {opacity: 0} 
-    100% {opacity: 1} 
-  }
 
 .top_ohno{
     position: relative;
-    width: 317px;
-    height: 100vh;
-    animation: fadeIn 1s ease 0s 1 normal;
     }
 .top_kakinuma{
-    position: relative;
-    width: 317px;
-    height: 100vh;
-    animation: fadeIn 1.4s ease 0s 1 normal;
+    position: absolute;
+    width: 960px;
+    top: 360px;
+    left: 0px;
 }
 .top_sasaki{
     position: relative;
-    width: 317px;
-    height: 100vh;
-    animation: fadeIn 1.8s ease 0s 1 normal;
 }
 .top_shigeno{
     position: relative;
-    width: 317px;
-    height: 100vh;
-    animation: fadeIn 2.2s ease 0s 1 normal;
 }
 .top_mori{
-    position: relative;
-    width: 317px;
-    height: 100vh;
-    animation: fadeIn 2.6s ease 0s 1 normal;
+    position: absolute;
+    width: 960px;
+    top: 360px;
+    left: 960px;
 }
 .top_washizu{
     position: relative;
-    width: 317px;
-    height: 100vh;
-    animation: fadeIn 3s ease 0s 1 normal;
 }
 
 .header{
