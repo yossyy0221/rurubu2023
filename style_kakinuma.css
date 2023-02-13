@@ -1,0 +1,156 @@
+
+body{
+    background-color: #f8f4e6;
+    font-family: 'Zen Maru Gothic', sans-serif;
+}
+
+.backbutton_kakinuma{
+    z-index: 100;
+    position: fixed;
+    left: 230px;
+    top: 30px;
+    width: 80px;
+    cursor: pointer;
+}
+
+
+.kakinuma_1{
+    width: 1000px;
+    position: relative;
+    text-align: center;
+    top: 100px;
+}
+
+.profile{
+  position: absolute;
+  top: 350px;
+  left: 495px;
+}
+
+.ichi{
+    position:relative;
+    text-align: center;
+}
+
+.bunichi{
+    position: absolute;
+    color: #030636;
+    top: 400px;
+    left: 495px;
+    }
+    @keyframes fade{
+        0%{
+          opacity: 0;
+        }
+        100%{
+          opacity: 1;
+        }
+      }
+
+      .kakinuma_2{
+        position:absolute;
+        width: 400px;
+        left: 495px;
+        top: 175px;
+    }
+
+    .shumi{
+      position: absolute;
+      top: 930px;
+      right: 930px;
+    }
+    
+    .ni{
+        position: absolute;
+        text-align: center;
+
+    }
+    
+    .bunni{
+        position: absolute;
+        color: #030636;
+        top: 1000px;
+        left: 855px;
+        }
+        @keyframes fade{
+            0%{
+              opacity: 0;
+            }
+            100%{
+              opacity: 1;
+            }
+          }
+    
+.kakinuma_3{
+  position: absolute;
+            width: 600px;
+            top: 430px;
+            left: 865px;
+        }
+
+.effect1{
+  position: absolute;
+  text-align: center;
+}
+
+.kakinuma_effect1{
+  position: absolute;
+  width: 100px;
+  left: 480px;
+  top: 175px;
+}
+
+.effect2{
+  position: absolute;
+  text-align: center;
+}
+
+.kakinuma_effect2{
+  position: absolute;
+  top: 665px;
+  width: 360px;
+  left: 1025px;
+}
+
+.san{
+  position: absolute;
+  text-align: center;
+}
+
+.bunsan{
+  position: absolute;
+  color: #030636;
+  top: 1535px;
+  left: 495px;
+  }
+  @keyframes fade{
+      0%{
+        opacity: 0;
+      }
+      100%{
+        opacity: 1;
+      }
+    }
+
+.shoukai{
+  position: absolute;
+  top: 1980px;
+  left: 660px;
+}
+
+.kakinuma_4{
+  width: 500px;
+}
+
+.yon{
+  position: absolute;
+  text-align: center;
+  top: 1900px;
+  right: 700px;
+}
+
+p{
+    font-size: 18px;
+}
+
+

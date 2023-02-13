@@ -1,0 +1,156 @@
+
+body{
+    background-color: #B3DDD1;
+    font-family: 'Zen Maru Gothic', sans-serif;
+}
+
+.backbutton_mori{
+    z-index: 100;
+    position: fixed;
+    left: 230px;
+    top: 30px;
+    width: 80px;
+    cursor: pointer;
+}
+
+
+.mori_1{
+    width: 1000px;
+    position: relative;
+    text-align: center;
+    top: -20px;
+    left: 35px;
+}
+
+.profile{
+  position: absolute;
+  top: 350px;
+  left: 495px;
+}
+
+.ichi{
+    position:relative;
+    text-align: center;
+}
+
+.bunichi{
+    position: absolute;
+    color: #80BEAF;
+    top: 400px;
+    left: 495px;
+    }
+    @keyframes fade{
+        0%{
+          opacity: 0;
+        }
+        100%{
+          opacity: 1;
+        }
+      }
+
+      .mori_2{
+        position:absolute;
+        width: 600px;
+        left: 400px;
+        top: 50px;
+    }
+
+    .shumi{
+      position: absolute;
+      top: 980px;
+      right: 880px;
+    }
+    
+    .ni{
+        position: absolute;
+        text-align: center;
+
+    }
+    
+    .bunni{
+        position: absolute;
+        color: #80BEAF;
+        top: 1050px;
+        left: 890px;
+        }
+        @keyframes fade{
+            0%{
+              opacity: 0;
+            }
+            100%{
+              opacity: 1;
+            }
+          }
+    
+.mori_3{
+  position: absolute;
+            width: 885px;
+            top: 50px;
+            left: 765px;
+        }
+
+.effect1{
+  position: absolute;
+  text-align: center;
+}
+
+.mori_effect1{
+  position: absolute;
+  width: 115px;
+  top: 120px;
+  left: 530px;
+}
+
+.effect2{
+  position: absolute;
+  text-align: center;
+}
+
+.mori_effect2{
+  position: absolute;
+  top: 320px;
+  left: 1000px;
+}
+
+.san{
+  position: absolute;
+  text-align: center;
+}
+
+.bunsan{
+  position: absolute;
+  color: #80BEAF;
+  top: 1580px;
+  left: 530px;
+  }
+  @keyframes fade{
+      0%{
+        opacity: 0;
+      }
+      100%{
+        opacity: 1;
+      }
+    }
+
+.shoukai{
+  position: absolute;
+  top: 1980px;
+  right: 715px;
+}
+
+.mori_4{
+  width: 700px;
+}
+
+.yon{
+  position: absolute;
+  text-align: center;
+  top: 1800px;
+  right: 650px;
+}
+
+p{
+    font-size: 18px;
+}
+
+
