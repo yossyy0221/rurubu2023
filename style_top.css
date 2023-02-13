@@ -6,7 +6,7 @@ body{
 
 
 .top_ohno{
-    position: relative;
+
     }
 .top_kakinuma{
     position: absolute;
@@ -15,10 +15,10 @@ body{
     left: 0px;
 }
 .top_sasaki{
-    position: relative;
+
 }
 .top_shigeno{
-    position: relative;
+
 }
 .top_mori{
     position: absolute;
@@ -27,7 +27,7 @@ body{
     left: 960px;
 }
 .top_washizu{
-    position: relative;
+
 }
 
 .header{
