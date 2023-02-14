@@ -10,12 +10,12 @@ ul{
 
 top_kakinuma{
     width: 50vw;
-    text-align: left;
+    left: 0px;
     }
 
 top_mori{
     width: 50vw;
-    text-align: right;
+    right: 0px;
 　　}
 
 
