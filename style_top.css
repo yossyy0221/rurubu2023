@@ -12,7 +12,9 @@ body{
     position: relative;
     }
 .top_kakinuma{
+    position: absolute;
     width: 50vw;
+    text-align: left;
 }
 .top_sasaki{
     position: relative;
@@ -21,7 +23,9 @@ body{
     position: relative;
 }
 .top_mori{
+    position: absolute
     width: 50vw;
+    text-align: right;
 }
 .top_washizu{
     position: relative;
