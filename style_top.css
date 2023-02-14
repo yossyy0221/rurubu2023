@@ -11,11 +11,11 @@ body{
            }
 .top_kakinuma{
     position: absolute;
-    width: 600px;
+    height: 600px;
     left: 0px;
     }
 .top_mori{
     position: absolute;
-    width: 600px;
+    height: 600px;
     right: 0px;
     }    
