@@ -4,6 +4,10 @@ body{
     font-family: 'Zen Maru Gothic', sans-serif;
 }
 
+.second{
+　display: flex;
+　}
+
 .top_kakinuma{
     width: 50vw;
     }
