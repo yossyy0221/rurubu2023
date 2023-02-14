@@ -8,6 +8,10 @@ body{
 　　position: relative;
 　　}
 
+.second{
+　　display: flex;
+　　}
+
 .top_kakinuma{
     position: absolute;
     width: 50vw;
