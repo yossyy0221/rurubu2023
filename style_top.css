@@ -5,6 +5,7 @@ body{
 }
 
 ul{
+    position: relative;
 　display: flex;
 　}
 
