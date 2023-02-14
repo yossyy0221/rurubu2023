@@ -15,13 +15,13 @@ body{
 .top_kakinuma{
     position: absolute;
     width: 50vw;
-    text-align: left;
+    left: 0px;
     }
 
 .top_mori{
     position: absolute
     width: 50vw;
-    text-align: right;
+    right: 0px;
 　　}
 
 
