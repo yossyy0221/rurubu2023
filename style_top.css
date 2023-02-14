@@ -4,5 +4,18 @@ body{
     font-family: 'Zen Maru Gothic', sans-serif;
 }
 
-.container2{display: flex;}
-    
+.container2{
+    position: relative;
+    top: 340px;
+    display: flex;
+           }
+.top_kakinuma{
+    position: absolute;
+    width: 600px;
+    left: 0px;
+    }
+.top_mori{
+    position: absolute;
+    width: 600px;
+    right: 0px;
+    }    
