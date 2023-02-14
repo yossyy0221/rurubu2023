@@ -4,22 +4,16 @@ body{
     font-family: 'Zen Maru Gothic', sans-serif;
 }
 
-.top_profile{
-　　position: relative;
-　　}
-
 .second{
 　　display: flex;
 　　}
 
 .top_kakinuma{
-    position: absolute;
     width: 50vw;
     left: 0px;
     }
 
 .top_mori{
-    position: absolute
     width: 50vw;
     right: 0px;
 　　}
