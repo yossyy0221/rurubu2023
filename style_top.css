@@ -4,6 +4,15 @@ body{
     font-family: 'Zen Maru Gothic', sans-serif;
 }
 
+.top_ohno{
+    width: 50%;
+    float: left;
+    }
+
+.top_shigeno{
+        width: 50%;
+        float: right;
+    }
 
 .top_kakinuma{
     width: 50%;
@@ -13,18 +22,15 @@ body{
     width: 50%;
     float: right;
 }
-.top_ohno{
-    position: relative;
-    }
+
 .top_sasaki{
-    position: relative;
-}
-.top_shigeno{
-    position: relative;
+    width: 50%;
+    float: left;
 }
 
 .top_washizu{
-    position: relative;
+    width: 50%;
+    float: right;
 }
 
 
