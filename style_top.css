@@ -4,33 +4,43 @@ body{
     font-family: 'Zen Maru Gothic', sans-serif;
 }
 
-.top_ohno{
-    width: 50%;
-    float: left;
+.first{
+    display: flex;
+}
+.second{
+    display: flex;
+}
+.third{
+    display: flex;
+}
+
+.top_ono{
+    width: 100%;
+    line-height: 0%;
     }
 
 .top_shigeno{
-        width: 50%;
-        float: right;
+    width: 100%;
+    line-height: 0%;
     }
 
 .top_kakinuma{
-    width: 50%;
-    float: left;
+    width: 100%;
+    line-height: 0%;
 }
 .top_mori{
-    width: 50%;
-    float: right;
+    width: 100%;
+    line-height: 0%;
 }
 
 .top_sasaki{
-    width: 50%;
-    float: left;
+    width: 100%;
+    line-height: 0%;
 }
 
 .top_washizu{
-    width: 50%;
-    float: right;
+    width: 100%;
+    line-height: 0%;
 }
 
 
