@@ -7,79 +7,117 @@ body{
 .backbutton_kakinuma{
     z-index: 100;
     position: fixed;
-    left: 230px;
-    top: 30px;
-    width: 80px;
+    left: 5%;
+    top: 10%;
+    width: 18%;
     cursor: pointer;
+}
+
+.side_ono{
+  z-index: 100;
+  position: fixed;
+  left: 5%;
+  top: 23%;
+  width: 18%;
+  cursor: pointer;
+}
+
+.side_sasaki{
+  z-index: 100;
+  position: fixed;
+  left: 5%;
+  top: 36%;
+  width: 18%;
+  cursor: pointer;
+}
+
+.side_shigeno{
+  z-index: 100;
+  position: fixed;
+  left: 5%;
+  top: 49%;
+  width: 18%;
+  cursor: pointer;
+}
+
+.side_mori{
+  z-index: 100;
+  position: fixed;
+  left: 5%;
+  top: 62%;
+  width: 18%;
+  cursor: pointer;
+}
+
+.side_washizu{
+  z-index: 100;
+  position: fixed;
+  left: 5%;
+  top: 75%;
+  width: 18%;
+  cursor: pointer;
 }
 
 
 .kakinuma_1{
-    width: 1000px;
+    width: 50%;
+    margin:0 auto;
     position: relative;
-    text-align: center;
-    top: 100px;
 }
 
-.profile{
+.shiraito{
   position: absolute;
-  top: 350px;
-  left: 495px;
+  padding-top: 10%;
+  width: 100%;
 }
 
-.ichi{
-    position:relative;
-    text-align: center;
+.柿沼_profile{
+  position: absolute;
+  padding-top: 34%;
+  padding-left: 1%;
+  width: 30%;
 }
 
 .bunichi{
     position: absolute;
     color: #030636;
-    top: 400px;
-    left: 495px;
+    padding-top: 40%;
+    padding-left: 2%;
     }
-    @keyframes fade{
-        0%{
-          opacity: 0;
-        }
-        100%{
-          opacity: 1;
-        }
-      }
 
-      .kakinuma_2{
+.kakinuma_2{
+      width: 50%;
+      margin:0 auto;
+      position: relative;
+  }
+
+.camera{
         position:absolute;
-        width: 400px;
-        left: 495px;
-        top: 175px;
+        padding-top: 90%;
+        width: 50%;
+
     }
 
-    .shumi{
+.shumi{
       position: absolute;
-      top: 930px;
-      right: 930px;
+      padding-top: 105%;
+      padding-left: 50%;
+      width: 12%;
     }
     
-    .ni{
-        position: absolute;
-        text-align: center;
-
-    }
-    
-    .bunni{
+.bunni{
         position: absolute;
         color: #030636;
-        top: 1000px;
-        left: 855px;
+        padding-top: 112%;
+        padding-left: 50%;
         }
-        @keyframes fade{
-            0%{
-              opacity: 0;
-            }
-            100%{
-              opacity: 1;
-            }
-          }
+
+.effect1{
+      position: absolute;
+      padding-top: 95%;
+      padding-left: 5%;
+      width: 12%;
+        }
     
 .kakinuma_3{
   position: absolute;
@@ -87,18 +125,6 @@ body{
             top: 430px;
             left: 865px;
         }
-
-.effect1{
-  position: absolute;
-  text-align: center;
-}
-
-.kakinuma_effect1{
-  position: absolute;
-  width: 100px;
-  left: 480px;
-  top: 175px;
-}
 
 .effect2{
   position: absolute;
@@ -150,7 +176,7 @@ body{
 }
 
 p{
-    font-size: 18px;
+    font-size: 20px;
 }
 
 
