@@ -1,9 +1,9 @@
 body{
-  background-color: #ffffff;
+  background-color: #ffffe0;
   font-family: 'Zen Maru Gothic', sans-serif;
 }
 
-.backbutton_sasaki{
+.backbutton_washizu{
 z-index: 100;
 position: fixed;
 left: 5%;
@@ -30,7 +30,7 @@ width: 18%;
 cursor: pointer;
 }
 
-.side_shigeno{
+.side_sasaki{
 z-index: 100;
 position: fixed;
 left: 5%;
@@ -39,7 +39,7 @@ width: 18%;
 cursor: pointer;
 }
 
-.side_mori{
+.side_shigeno{
 z-index: 100;
 position: fixed;
 left: 5%;
@@ -48,7 +48,7 @@ width: 18%;
 cursor: pointer;
 }
 
-.side_washizu{
+.side_mori{
 z-index: 100;
 position: fixed;
 left: 5%;
@@ -58,19 +58,19 @@ cursor: pointer;
 }
 
 
-.sasaki1{
+.washizu1{
 width: 50%;
 margin:0 auto;
 position: relative;
 }
 
-.sasaki_1{
+.washizu_1{
 position: absolute;
 padding-top: 8%;
 width: 100%;
 }
 
-.佐々木_profile{
+.鷲巣_profile{
 position: absolute;
 padding-top: 34%;
 padding-left: 1%;
@@ -79,7 +79,7 @@ width: 30%;
 
 .bunichi{
 position: absolute;
-color: #002395;
+color: #000000;
 padding-top: 40%;
 padding-left: 2%;
 }
