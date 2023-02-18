@@ -7,195 +7,168 @@ body{
 .backbutton_mori{
   z-index: 100;
   position: fixed;
-  left: 60px;
-  top: 80px;
-  width: 350px;
+  left: 5%;
+  top: 10%;
+  width: 18%;
   cursor: pointer;
 }
 
 .side_ono{
 z-index: 100;
 position: fixed;
-left: 60px;
-top: 210px;
-width: 350px;
+left: 5%;
+top: 23%;
+width: 18%;
 cursor: pointer;
 }
 
 .side_kakinuma{
 z-index: 100;
 position: fixed;
-left: 60px;
-top: 340px;
-width: 350px;
+left: 5%;
+top: 36%;
+width: 18%;
 cursor: pointer;
 }
 
 .side_sasaki{
 z-index: 100;
 position: fixed;
-left: 60px;
-top: 470px;
-width: 350px;
+left: 5%;
+top: 49%;
+width: 18%;
 cursor: pointer;
 }
 
 .side_shigeno{
 z-index: 100;
 position: fixed;
-left: 60px;
-top: 600px;
-width: 350px;
+left: 5%;
+top: 62%;
+width: 18%;
 cursor: pointer;
 }
 
 .side_washizu{
 z-index: 100;
 position: fixed;
-left: 60px;
-top: 730px;
-width: 350px;
+left: 5%;
+top: 75%;
+width: 18%;
 cursor: pointer;
 }
 
 
+.mori1{
+  width: 50%;
+  margin:0 auto;
+  position: relative;
+}
+
 .mori_1{
-    width: 1000px;
-    position: relative;
-    text-align: center;
-    top: -20px;
-    left: 35px;
+position: absolute;
+padding-top: 6%;
+width: 100%;
 }
 
-.profile{
-  position: absolute;
-  top: 350px;
-  left: 495px;
-}
-
-.ichi{
-    position:relative;
-    text-align: center;
+.森_profile{
+position: absolute;
+padding-top: 34%;
+padding-left: 1%;
+width: 30%;
 }
 
 .bunichi{
-    position: absolute;
-    color: #80BEAF;
-    top: 400px;
-    left: 495px;
-    }
-    @keyframes fade{
-        0%{
-          opacity: 0;
-        }
-        100%{
-          opacity: 1;
-        }
-      }
-
-      .mori_2{
-        position:absolute;
-        width: 600px;
-        left: 400px;
-        top: 50px;
-    }
-
-    .shumi{
-      position: absolute;
-      top: 980px;
-      right: 930px;
-    }
-    
-    .ni{
-        position: absolute;
-        text-align: center;
-
-    }
-    
-    .bunni{
-        position: absolute;
-        color: #80BEAF;
-        top: 1050px;
-        left: 855px;
-        }
-        @keyframes fade{
-            0%{
-              opacity: 0;
-            }
-            100%{
-              opacity: 1;
-            }
-          }
-    
-.mori_3{
   position: absolute;
-            width: 885px;
-            top: 50px;
-            left: 765px;
-        }
+  color: #005752;
+  padding-top: 40%;
+  padding-left: 2%;
+  }
 
+
+.mori2{
+    width: 50%;
+    margin:0 auto;
+    position: relative;
+}
+
+.mori_2{
+      position:absolute;
+      padding-top: 98%;
+      width: 50%;
+  }
+  
 .effect1{
   position: absolute;
-  text-align: center;
-}
+  padding-top: 98%;
+  padding-left: 5%;
+  width: 12%;
+    }
 
-.mori_effect1{
-  position: absolute;
-  width: 115px;
-  top: 120px;
-  left: 530px;
-}
+.shumi{
+    position: absolute;
+    padding-top: 95%;
+    padding-left: 50%;
+    width: 12%;
+  }
+  
+.bunni{
+      position: absolute;
+      color: #005752;
+      padding-top: 102%;
+      padding-left: 50%;
+      }
+  
+.mori3{
+        width: 50%;
+        margin:0 auto;
+        position: relative;
+    }
+
+.mori_3{
+        position:absolute;
+        padding-top: 120%;
+        padding-left: 30%;
+        width: 80%;
+    }
 
 .effect2{
-  position: absolute;
-  text-align: center;
-}
-
-.mori_effect2{
-  position: absolute;
-  top: 320px;
-  left: 1000px;
-}
-
-.san{
-  position: absolute;
-  text-align: center;
+position: absolute;
+padding-top: 140%;
+padding-left: 55%;
+width: 40%;
 }
 
 .bunsan{
-  position: absolute;
-  color: #80BEAF;
-  top: 1580px;
-  left: 530px;
-  }
-  @keyframes fade{
-      0%{
-        opacity: 0;
-      }
-      100%{
-        opacity: 1;
-      }
-    }
-
-.shoukai{
-  position: absolute;
-  top: 1980px;
-  right: 715px;
+position: absolute;
+color: #005752;
+padding-top: 140%;
+padding-left: 2%;
 }
 
-.mori_4{
-  width: 700px;
+.mori4{
+  width: 100%;
+  margin:0 auto;
+  position: relative;
 }
 
-.yon{
+.印象{
   position: absolute;
-  text-align: center;
-  top: 1800px;
-  right: 650px;
+  padding-top: 192%;
+  padding-left: 20%;
+  width: 60%;
 }
+
+.zenshin{
+  position: absolute;
+  padding-top: 158%;
+  padding-left: 17%;
+  width: 70%;
+}
+
 
 p{
-    font-size: 18px;
+  font-size: 20px;
 }
 
 
