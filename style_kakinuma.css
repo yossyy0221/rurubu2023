@@ -167,6 +167,89 @@ body{
 }
 
 
+.icon_ono{
+  position: absolute;
+  padding-top: 260%;
+  padding-left: 7%;
+  padding-bottom: 10%;
+  width: 10%;
+  }
+
+  .ono_image{
+    color: #030636;
+    position: absolute;
+    padding-top: 261.5%;
+    padding-left: 20%;
+    width: 22%;
+  }
+
+  .icon_sasaki{
+    position: absolute;
+    padding-top: 275%;
+    padding-left: 7%;
+    width: 10%;
+    }
+
+    .sasaki_image{
+      color: #030636;
+      position: absolute;
+      padding-top: 277%;
+      padding-left: 20%;
+      padding-bottom: 9%;
+      width: 17%;
+    }
+
+    .icon_shigeno{
+      position: absolute;
+      padding-top: 250%;
+      padding-left: 85%;
+      padding-bottom: 10%;
+      width: 10%;
+      }
+      .shigeno_image{
+        color: #030636;
+        position: absolute;
+        padding-top: 249%;
+        padding-left: 65%;
+        padding-bottom: 9%;
+        width: 20%;
+      }
+
+      .icon_mori{
+        position: absolute;
+        padding-top: 265%;
+        padding-left: 85%;
+        padding-bottom: 10%;
+        width: 10%;
+        }
+        .mori_image{
+          color: #030636;
+          position: absolute;
+          padding-top: 264%;
+          padding-left: 63%;
+          padding-bottom: 9%;
+          width: 20%;
+        }
+  
+
+        .icon_washizu{
+          position: absolute;
+          padding-top: 280%;
+          padding-left: 85%;
+          padding-bottom: 10%;
+          width: 10%;
+          }
+
+          .washizu_image{
+            color: #030636;
+            position: absolute;
+            padding-top: 282%;
+            padding-left: 65%;
+            padding-bottom: 9%;
+            width: 18%;
+          }
+
+
 p{
     font-size: 18px;
 }

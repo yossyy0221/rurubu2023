@@ -4,14 +4,9 @@ body{
     font-family: 'Zen Maru Gothic', sans-serif;
 }
 
-.first{
+.top_profile{
     display: flex;
-}
-.second{
-    display: flex;
-}
-.third{
-    display: flex;
+    width: 0 auto;
 }
 
 .top_ono{
@@ -43,6 +38,15 @@ body{
     line-height: 0%;
 }
 
+.top{
+    width: 100%;
+    text-align: center;
+    }
+
+.title{
+    padding-top: 3%;
+    width: 50%;
+}
 
 
     

@@ -85,51 +85,58 @@ padding-left: 2%;
 }
 
 
-.sasaki2{
+.washizu2{
   width: 50%;
   margin:0 auto;
   position: relative;
 }
 
-.sasaki_2{
+.washizu_2{
     position:absolute;
     padding-top: 100%;
-    width: 30%;
+    width: 50%;
 }
 
 .effect1{
 position: absolute;
-padding-top: 95%;
-padding-left: 28%;
+padding-top: 105%;
+padding-left: 35%;
 width: 10%;
   }
 
 .shumi{
   position: absolute;
-  padding-top: 96%;
+  padding-top: 100%;
   padding-left: 50%;
   width: 12%;
 }
 
 .bunni{
     position: absolute;
-    color: #002395;
+    color: #000000;
     padding-top: 108%;
     padding-left: 50%;
     }
 
-.sasaki3{
+.washizu3{
       width: 50%;
       margin:0 auto;
       position: relative;
   }
 
-.sasaki_3{
+.washizu_3{
       position:absolute;
       padding-top: 140%;
       padding-left: 50%;
       width: 45%;
   }
+
+.washizu_plus{
+      position:absolute;
+      padding-top: 150%;
+      padding-left: 10%;
+      width: 26%;
+}
 
 .effect2{
 position: absolute;
@@ -138,14 +145,22 @@ padding-left: 50%;
 width: 43%;
 }
 
+.effect3{
+  position: absolute;
+  padding-top: 157%;
+  padding-left: 7%;
+  width: 35%;
+  }
+  
+
 .bunsan{
 position: absolute;
-color: #002395;
+color: #000000;
 padding-top: 170%;
 padding-left: 2%;
 }
 
-.sasaki4{
+.washizu4{
 width: 100%;
 margin:0 auto;
 position: relative;
@@ -160,17 +175,97 @@ width: 60%;
 
 .zenshin{
 position: absolute;
-padding-top: 206%;
-padding-left: 30%;
+padding-top: 200%;
+padding-left: 38%;
 padding-bottom: 10%;
-width: 40%;
+width: 20%;
 }
+
+.icon_ono{
+  position: absolute;
+  padding-top: 215%;
+  padding-left: 7%;
+  padding-bottom: 10%;
+  width: 10%;
+  }
+
+  .ono_image{
+    color: #000000;
+    position: absolute;
+    padding-top: 217%;
+    padding-left: 20%;
+    width: 22%;
+  }
+
+  .icon_kakinuma{
+    position: absolute;
+    padding-top: 230%;
+    padding-left: 7%;
+    width: 10%;
+    }
+
+    .kakinuma_image{
+      color: #000000;
+      position: absolute;
+      padding-top: 229%;
+      padding-left: 20%;
+      padding-bottom: 9%;
+      width: 13%;
+    }
+
+    .icon_sasaki{
+      position: absolute;
+      padding-top: 210%;
+      padding-left: 85%;
+      padding-bottom: 10%;
+      width: 10%;
+      }
+      .sasaki_image{
+        color: #000000;
+        position: absolute;
+        padding-top: 210.5%;
+        padding-left: 65%;
+        padding-bottom: 9%;
+        width: 18%;
+      }
+
+      .icon_shigeno{
+        position: absolute;
+        padding-top: 225%;
+        padding-left: 85%;
+        padding-bottom: 10%;
+        width: 10%;
+        }
+        .shigeno_image{
+          color: #000000;
+          position: absolute;
+          padding-top: 225%;
+          padding-left: 65%;
+          padding-bottom: 9%;
+          width: 18%;
+        }
+  
+
+        .icon_mori{
+          position: absolute;
+          padding-top: 240%;
+          padding-left: 85%;
+          padding-bottom: 10%;
+          width: 10%;
+          }
+
+          .mori_image{
+            color: #000000;
+            position: absolute;
+            padding-top: 239%;
+            padding-left: 65%;
+            padding-bottom: 9%;
+            width: 18%;
+          }
 
 
 p{
-font-size: 18px;
+    font-size: 18px;
 }
-
-
 
 
